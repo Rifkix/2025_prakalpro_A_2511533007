@@ -1,0 +1,20 @@
+package Pekan1;
+
+public class HelloWorld {
+
+	public static void main(String[] args) {
+		//program pertama
+		/*komentar
+		 * dua baris atau lebih
+		 * pertemuan 1 praktikum alpro
+		 */
+		System.out.println("Hello World");
+		System.out.println();
+		System.out.println("Program ini menghasilkan");
+		System.out.println("Empat baris ouput");
+		System.out.println("/ \\ // \\\\ /// \\\\");
+		System.out.println("THIS"+" program prints a\n"+ "quote form Gettysburg Address.");
+
+	}
+
+}
