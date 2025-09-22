@@ -10,7 +10,7 @@ public class OperatorAritmatika {
 		Scanner keyboard = new Scanner (System.in);
 		System.out.println("input angka-1: ");
 		A1 = keyboard.nextInt();
-		System.out.println("input angka -2: ");
+		System.out.println("input angka-2: ");
 		A2 = keyboard.nextInt();
 		keyboard.close();
 		System.out.println("operator penjmlahan");
