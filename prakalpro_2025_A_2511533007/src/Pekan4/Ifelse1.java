@@ -16,9 +16,11 @@ public class Ifelse1 {
 			System.out.println("Anda Tidak Lulus");
 
 	}
-
+	}
 }
 
 
-}
+
+
+
 
